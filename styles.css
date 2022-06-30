@@ -1,0 +1,66 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.hand {
+  text-align: center;
+  display: inline-block;
+  height: 100px;
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+.refresh{
+  text-align: center;
+}
+.refresh-btn{
+  display: inline-block;
+  padding: 10px 15px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #6D8299;
+  border: none;
+  border-radius: 15px;
+  margin: 10px auto auto auto;
+}
+
+.refresh-btn:hover {background-color: #4ECCA3}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  height: 100%;
+}
+
+.linkedin{
+  color: #4ECCA3;
+}
